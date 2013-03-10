@@ -1,4 +1,4 @@
-root = "/home/webdeployer/apps/ba-apba-api/current"
+root = "/home/webdeployer/apps/ba-api/current"
 working_directory root
 pid "#{root}/tmp/pids/unicorn.pid"
 stderr_path "#{root}/log/unicorn.log"
